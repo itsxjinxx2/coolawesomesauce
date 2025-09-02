@@ -1,0 +1,7 @@
+{
+  "name": "MsgSpam",
+  "description": "Spams a message in the current channel safely with a specified count.",
+  "version": "1.0.0",
+  "author": "itsxjinxx",
+  "main": "src/index.ts"
+}
