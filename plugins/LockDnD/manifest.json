@@ -1,8 +1,0 @@
-{
-  "name": "LockDND",
-  "description": "Locks your Discord status to Do Not Disturb until you disable it.",
-  "authors": [
-    { "name": "itsxjinxx", "id": "1106738176963399740" }
-  ],
-  "main": "src/index.js"
-}
