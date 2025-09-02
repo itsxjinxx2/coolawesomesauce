@@ -1,0 +1,14 @@
+{
+  "name": "coolawesomesauce",
+  "description": "My Vendetta Plugins",
+  "authors": [
+    { "name": "itsxjinxx", "id": "1106738176963399740" }
+  ],
+  "plugins": [
+    {
+      "name": "LockDND",
+      "description": "Locks your status to Do Not Disturb.",
+      "path": "plugins/LockDND/"
+    }
+  ]
+}
